@@ -1,0 +1,6 @@
+{
+  "name": "Sổ Quản Lý Điểm Thưởng Phạt & Tích Lũy",
+  "description": "Ứng dụng theo dõi, tính điểm thưởng phạt bài thi (≥7.5đ: +3đ, ≥6đ: 0đ, <6đ: -7đ), lưu trữ và cộng dồn lũy kế theo từng tháng.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
